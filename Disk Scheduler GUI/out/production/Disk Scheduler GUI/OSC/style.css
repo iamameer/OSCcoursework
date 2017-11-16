@@ -1,0 +1,29 @@
+#des {
+    -fx-background-color: gray;
+    -fx-opacity: 0.8;
+    -fx-text-alignment: center;
+}
+
+#exit {
+    -fx-background-color: salmon;
+}
+
+#exit:hover {
+    -fx-background-color: tomato;
+}
+
+#gen {
+    -fx-background-color: greenyellow;
+}
+
+#gen:hover {
+    -fx-background-color: limegreen;
+}
+
+#clear {
+    -fx-background-color: coral;
+}
+
+#clear:hover {
+    -fx-background-color: goldenrod;
+}
